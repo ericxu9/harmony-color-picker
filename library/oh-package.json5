@@ -1,0 +1,12 @@
+{
+  "name": "color-picker",
+  "version": "1.0.0",
+  "description": "Color picker based on HSV color model",
+  "main": "Index.ets",
+  "author": "yj",
+  "keywords": ['color', 'picker', '颜色选择器'],
+  'homepage': 'https://gitee.com/yranfantasy',
+  'repository': 'https://gitee.com/yranfantasy/harmony-color-picker',
+  "license": "Apache-2.0",
+  "dependencies": {}
+}
